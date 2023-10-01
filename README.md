@@ -55,7 +55,7 @@ I'm an computer science student with a passion for moving the virtual universe t
 
 <p>
 
-<h1>Click on image to see certification</h1>
+<h6>Click on image to see certification</h6>
     
 <a href="https://www.codingame.com/certification/a_G1BsrajUksXNoYuwhYYw"> 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
