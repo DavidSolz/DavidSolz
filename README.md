@@ -50,3 +50,19 @@ I'm an computer science student with a passion for moving the virtual universe t
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
+
+<h3> Certifications </h3>
+
+<p>
+
+<h1>Click on image to see certification</h1>
+    
+<a href="https://www.codingame.com/certification/a_G1BsrajUksXNoYuwhYYw"> 
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</a>
+
+<a href="https://www.codingame.com/certification/nKBY_xFSilH44IpNPJtbgA"> 
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+</p>
