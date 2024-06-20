@@ -9,9 +9,9 @@ I'm an computer science student with a passion for moving the virtual universe t
 <ul>
     <li>🪐 Getting knowledge about world</li>
     <li>🌱 Exotic plants</li>
-    <li>🚀 Science fiction, i'm in love with Dune</li>
+    <li>🚀 Science fiction</li>
     <li>🤖 Building and repairing small electronics</li>
-    <li>🪄 Reading books and watching TV series</li>
+    <li>👽 Reading books and watching TV series</li>
 </ul>
 
 ### ⌨️ Experience
